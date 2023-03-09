@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.web{
+    margin: 10px auto;
+    width: 23%;
+    border: 1.5px solid red;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#list{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
